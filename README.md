@@ -1,5 +1,11 @@
-SCRUM
+<html>
+<header>
+<title> MY WEBSITE </title>
 
+
+<body>
+<p>
+<h1>What is Scrum</h1>
 Scrum is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. The framework begins with a simple premise: Start with what can be seen or known. After that, track the progress and tweak as necessary.This idealogy makes scrum very effective for software engineers as its important to be flexible when doing a big project.
 In this frame work everyone plays a role. When it comes to product development, Scrum roles include product owner, Scrum master and Scrum development team.
 
@@ -10,4 +16,7 @@ Responsibilities of a scrum master include : making the sure the team is comfort
 
 Scrum development team: This  is a group that works together for creating and testing incremental releases of the final product.
 
-One key aspect of scrum is the "sprints".Sprint is one timeboxed iteration of a continuous development cycle. Within a Sprint, planned amount of work has to be completed by the team and made ready for review. A sprint is very effective for getting work done because it allows a team of people to work on a project and provide quality work without getting burned out.
+One key aspect of scrum is the "sprints".Sprint is one timeboxed iteration of a continuous development cycle. Within a Sprint, planned amount of work has to be completed by the team and made ready for review. A sprint is very effective for getting work done because it allows a team of people to work on a project and provide quality work without getting burned out.</p>
+</body>
+
+</html>
