@@ -4,8 +4,9 @@
 
 
 <body>
-<p>
 <h1>What is Scrum</h1>
+<p>
+
 Scrum is a framework for project management that emphasizes teamwork, accountability and iterative progress toward a well-defined goal. The framework begins with a simple premise: Start with what can be seen or known. After that, track the progress and tweak as necessary.This idealogy makes scrum very effective for software engineers as its important to be flexible when doing a big project.
 In this frame work everyone plays a role. When it comes to product development, Scrum roles include product owner, Scrum master and Scrum development team.
 
