@@ -1,14 +1,15 @@
 title{
-    color: blue
-    font : salmon
+    color: blue;
+
 } 
 body{
     background-color: silver;
     }
 
 p{
-    color: white
+    color: white;
 }
-h{
-    color:brown
+h1,h2,h3,h4,h5{
+    color:brown;
+    font-size: 1.5em;
 }
